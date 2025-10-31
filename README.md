@@ -22,7 +22,7 @@ The following table documents the issues identified in the original `inventory_s
 
 ---
 
-## Reflection (Sample Answers - **VERIFY AND ADJUST**)
+## Reflection 
 
 ### 1. Which issues were the easiest to fix, and which were the hardest? Why?
 
@@ -50,6 +50,3 @@ The improvements were significant:
 
 ---
 
-Remember to commit and push all 6 required files, including this `readme.md`, to your GitHub repository before submitting.
-
-Do you have any questions about the submission process or the required file structure?
