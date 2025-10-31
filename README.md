@@ -31,7 +31,7 @@ The following table documents the issues identified in the original `inventory_s
 
 ### 2. Did the static analysis tools report any false positives? If so, describe one example.
 
-* Yes, a potential false positive/justified usage was the **Use of global** reported by Pylint (line 55). While Pylint rightly flags global variable use as a code smell, for this small, self-contained `inventory_system.py` program, using a global dictionary was the simplest and clearest way to manage the single state of the inventory data across all functions. No complex class structure was required.
+* Yes, a potential false positive/justified usage was the **Use of global** reported by Pylint. While Pylint rightly flags global variable use as a code smell, for this small, self-contained `inventory_system.py` program, using a global dictionary was the simplest and clearest way to manage the single state of the inventory data across all functions. No complex class structure was required.
 
 ### 3. How would you integrate static analysis tools into your actual software development workflow?
 
